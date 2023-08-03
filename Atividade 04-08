@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Projeto em HTML!</title>
+</head> 
+<body> <h2>Projeto em HTML</h2> <br> <br> Olá, Douglas! Tudo bem? 
+    Meu nome é Henrique e esse é o meu projeto em HTML conforme combinamos. 
+<br> <br>
+    Abaixo vou deixar o link para encontar minha imagem e logo após a foto encontrada no link: 
+    <br>
+</body> 
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqfiQkimkPIORafE10bouWp0vGPnruykm8Atqj5qr-hj_3ByRUpZopx2cV0IsuJKNQK6o&usqp=CAU"> Esse é o link onde você vai clicar e encontrará minha foto </a> </a>
+<br>
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqfiQkimkPIORafE10bouWp0vGPnruykm8Atqj5qr-hj_3ByRUpZopx2cV0IsuJKNQK6o&usqp=CAU">
+<body> <br> 
+Essa é a minha foto, rs.</body>
+<body> <br> <br> <br> 
+
+<b>essa escrita é em negrito</b>
+<br> <del> essa escrita está riscada</del> 
+<br> aqui está uma <sup>linha acima do normal</sup> <br> aqui está uma <sub>linha abaixo do normal</sub>
+<br> <br> <br> agora irei realizar uma lista <br> <br>
+<h3>Abaixo uma lista para largar o computador e dormir:</h3> <ol></ol> 
+<li> deitar</li>
+<li> dormir </li> 
+
+</body>
+</html>
